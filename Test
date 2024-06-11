@@ -1,3 +1,5 @@
+git push origin main
+
 git clone https://codepen.io/Firdaus-Zakuan/pen/abrLJmY
 
 cd my-static-website
@@ -62,3 +64,4 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 git add .
 git commit -m "Add static website files"
+
